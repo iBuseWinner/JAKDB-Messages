@@ -1,0 +1,4 @@
+{
+	"levelup": "{\"embed\": {\"title\": \"Yay, Level-Up!\",\"description\": \"You level-upped! Congrats!\",\"footer\": {\"text\": \"You always can donate us to get multiplier for XP!\"},\"fields\": [{\"name\":\"Levels Line\",\"value\": \"~~<level.last>~~ => **<level.current>** => ~~<level.next>~~\"},{\"name\": \"Reward\",\"value\": \"<level.reward> <symbol.money>\"}]}}",
+	"key1": "value1"
+}
