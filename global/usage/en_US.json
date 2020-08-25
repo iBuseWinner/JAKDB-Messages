@@ -1,4 +1,4 @@
 {
-	"targetusernotfound": "{\"embed\": {\"title\": \"Hey, what?\",\"description\": \"User <user.target> not found!\",\"footer\": {\"text\": \"Check your args!\"}}}",
-	"guildOnly": "{\"embed\": {\"title\": \"Wrong channel!\",\"description\": \"This command can be used only in guild channels!\",\"footer\": {\"text\": \"Check channel!\"}}}"
+	"targetusernotfound": "{\"embed\": {\"title\": \"Hey, what?\",\"url\": \"\",\"description\": \"User <user.target> not found!\",\"footer\": {\"text\": \"Check your args!\"}}}",
+	"guildOnly": "{\"embed\": {\"title\": \"Wrong channel!\",\"url\": \"\",\"description\": \"This command can be used only in guild channels!\",\"footer\": {\"text\": \"Check channel!\"}}}"
 }
