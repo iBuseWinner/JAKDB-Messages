@@ -1,4 +1,6 @@
 {
-	"targetusernotfound": "{\"embed\": {\"title\": \"Hey, what?\",\"url\": \"\",\"description\": \"User <user.target> not found!\",\"footer\": {\"text\": \"Check your args!\"}}}",
-	"guildOnly": "{\"embed\": {\"title\": \"Wrong channel!\",\"url\": \"\",\"description\": \"Commands can be used only in guilds!\",\"footer\": {\"text\": \"Check channel!\"}}}"
+	"targetusernotfound": "{\"embed\": {\"title\": \"Hey, what?\",\"url\": \"\", \"color\": \"fail\", \"description\": \"User <user.target> not found!\",\"footer\": {\"text\": \"Check your args!\"}}}",
+	"guildOnly": "{\"embed\": {\"title\": \"Wrong channel!\",\"url\": \"\", \"color\": \"fail\", \"description\": \"Commands can be used only in guilds!\",\"footer\": {\"text\": \"Check channel!\"}}}",
+	"number": "{\"embed\": {\"title\": \"Specify number!\", \"url\": \"\", \"color\": \"fail\", \"description\": \"Please use `!help <command>` to see how to use this command.\"}}",
+	"tooBig": "{\"embed\": {\"title\": \"Number very big!\", \"url\": \"\", \"color\": \"fail\", \"description\": \"Please use numbers small than <number>.\"}}"
 }

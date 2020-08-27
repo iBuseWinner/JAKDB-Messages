@@ -1,4 +1,4 @@
 {
-	"cooldown": "{\"embed\": {\"title\": \"Hey, wait!\",\"url\": \"\",\"description\": \"Please wait before use this command!\",\"footer\": {\"text\": \"You can always donate to us to reduce the cooldown!\"},\"fields\": [{\"name\":\"Remain\",\"value\": \"<command.cooldown>\"},{\"name\": \"Command\",\"value\": \"<command.name>\"}]}}",
-	"key1": "value1"
+	"cooldown": "{\"embed\": {\"title\": \"Hey, wait!\",\"url\": \"\", \"color\": \"fail\",\"description\": \"Please wait before use this command!\",\"footer\": {\"text\": \"You can always donate to us to reduce the cooldown!\"},\"fields\": [{\"name\":\"Remain\",\"value\": \"<command.cooldown>\"},{\"name\": \"Command\",\"value\": \"<command.name>\"}]}}",
+	"noargs": "{\"embed\": {\"title\": \"More args!!\", \"url\": \"\", \"color\": \"fail\",\"description\": \"Please specify more arguments!\n If you don't know how to use this command, check `!help <command>`.\"}}"
 }
