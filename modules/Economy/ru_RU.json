@@ -1,0 +1,4 @@
+{
+	"balanceother": "{\"embed\": {\"title\": \"<:wheat:747106658471116910> Баланс <:gold:747104154043809922>\",\"url\": \"\", \"color\": \"succ\",\"description\": \"Баланс пользователя <eco.bal.other.mention>\",\"fields\": [{\"name\": \"<:wheat:747106658471116910> Коины <:wheat:747106658471116910>\", \"value\": \"<eco.bal.coins>\", \"inline\": true}, {\"name\": \"<:gold:747104154043809922> Золото <:gold:747104154043809922>\", \"value\": \"<eco.bal.gold>\", \"inline\": true}]}}",
+	"balanceself": "{\"embed\": {\"title\": \"<:wheat:747106658471116910> Баланс <:gold:747104154043809922>\",\"url\": \"\", \"color\": \"succ\",\"description\": \"Ваш баланс\",\"fields\": [{\"name\": \"<:wheat:747106658471116910> Коины <:wheat:747106658471116910>\", \"value\": \"<eco.bal.coins>\", \"inline\": true}, {\"name\": \"<:gold:747104154043809922> Золото <:gold:747104154043809922>\", \"value\": \"<eco.bal.gold>\", \"inline\": true}]}}"
+}

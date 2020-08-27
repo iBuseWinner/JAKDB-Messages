@@ -1,0 +1,3 @@
+{
+	"8ball": "{\"embed\": {\"title\": \"🎱 8ball\",\"url\": \"\", \"color\": \"succ\",\"description\": \"Hmm, very hard question, but okay. Check answer below\",\"fields\": [{\"name\": \"Question\", \"value\": \"<8ball.question>\"}, {\"name\": \"Answer\", \"value\": \"<8ball.asnwer>\"}]}}"
+}
