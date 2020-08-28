@@ -1,3 +1,7 @@
 {
-	"8ball": "{\"embed\": {\"title\": \"🎱 8ball\",\"url\": \"\", \"color\": \"succ\",\"description\": \"Hmm, very hard question, but okay. Check answer below\",\"fields\": [{\"name\": \"Question\", \"value\": \"<8ball.question>\"}, {\"name\": \"Answer\", \"value\": \"<8ball.asnwer>\"}]}}"
+	"8ball": "{\"embed\": {\"title\": \"🎱 8ball\",\"url\": \"\", \"color\": \"succ\",\"description\": \"Hmm, very hard question, but okay. Check answer below\",\"fields\": [{\"name\": \"Question\", \"value\": \"<8ball.question>\"}, {\"name\": \"Answer\", \"value\": \"<8ball.asnwer>\"}]}}",
+	"profileother": "{\"embed\": {\"title\": \"Profile\", \"url\": \"\", \"color\": \"succ\", \"description\": \"<profile.user>'s profile\", \"fields\": [{\"name\": \"Message\", \"value\": \"<profile.msg>\"},{\"name\": \"Link\", \"value\": \"<profile.link>\", \"inline\": true},{\"name\": \"Debug\", \"value\": \"<profile.debug>\", \"inline\": true}]}}",
+	"profileself": "{\"embed\": {\"title\": \"Profile\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Your profile\", \"fields\": [{\"name\": \"Message\", \"value\": \"<profile.msg>\"},{\"name\": \"Link\", \"value\": \"<profile.link>\", \"inline\": true},{\"name\": \"Debug\", \"value\": \"<profile.debug>\", \"inline\": true}]}}",
+	"setprofilemessage": "{\"embed\": {\"title\": \"Profile\", \"url\": \"\", \"color\": \"succ\", \"description\": \"You have set the message:\n_<profile.msg>_\"}}",
+	"setprofilelink": "{\"embed\": {\"title\": \"Profile\", \"url\": \"\", \"color\": \"succ\", \"description\": \"You have set the link:\n_<profile.link>_\"}}"
 }
