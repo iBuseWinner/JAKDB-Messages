@@ -1,3 +1,4 @@
 {
 	"setdebug": "{\"embed\": {\"title\": \"Профиль\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Вы изменили дебаг-мод на **<profile.debug>**!\"}}",
+	"suggestion": "{\"embed\": {\"title\": \"Предложение\",\"url\": \"\",\"color\": \"succ\",\"description\": \"<suggestion.msg>\", \"fields\": [{\"name\": \"Автор\",\"value\": \"<suggestion.author>\", \"inline\":true}]}}"
 }

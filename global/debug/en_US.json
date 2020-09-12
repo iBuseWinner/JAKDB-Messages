@@ -2,5 +2,7 @@
 	"cooldown": "{\"embed\": {\"title\": \"Hey, wait!\",\"url\": \"\", \"color\": \"fail\",\"description\": \"Please wait before use this command!\",\"footer\": {\"text\": \"You can always donate to us to reduce the cooldown!\"},\"fields\": [{\"name\":\"Remain\",\"value\": \"<command.cooldown>\"},{\"name\": \"Command\",\"value\": \"<command.name>\"}]}}",
 	"noargs": "{\"embed\": {\"title\": \"More args!!\", \"url\": \"\", \"color\": \"fail\",\"description\": \"Please specify more arguments!\n If you don't know how to use this command, check `!help <command>`.\"}}",
 	"noperm": "{\"embed\": {\"title\": \"No permissions!\", \"url\": \"\", \"color\": \"fail\", \"description\": \"I'm sorry but you don't have permissions to perform this command.\"}}",
-	"nolink": "{\"embed\": {\"title\": \"Not a link!\", \"url\": \"\", \"color\": \"fail\", \"description\": \"Please specify real link! It must starts with `http://` or `https://`.\"}}"
+	"nolink": "{\"embed\": {\"title\": \"Not a link!\", \"url\": \"\", \"color\": \"fail\", \"description\": \"Please specify real link! It must starts with `http://` or `https://`.\"}}",
+	"nosuggestchannel": "{\"embed\": {\"title\": \"No suggest channel!\", \"url\": \"\", \"color\": \"fail\", \"description\": \"This guild didn't set a suggest channel. Admins can set it with command `!suggest set`.\"}}",
+	"notsuggestchannel": "{\"embed\": {\"title\": \"Not a suggest channel!\", \"url\": \"\", \"color\": \"fail\", \"description\": \"This channel isn't for suggestions. Use <suggest.channel> for this!\"}}"
 }

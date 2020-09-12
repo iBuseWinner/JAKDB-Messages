@@ -1,0 +1,6 @@
+{
+	"suggestset": "{\"embed\": {\"title\": \"Suggest\",\"url\": \"\",\"color\": \"succ\",\"description\": \"You have set suggestions channel!\"}}",
+	"suggestoff": "{\"embed\": {\"title\": \"Suggest\",\"url\": \"\",\"color\": \"succ\",\"description\": \"You have disabled suggestions channel!\"}}",
+	"setmaxwarns": "{\"embed\": {\"title\": \"Max warns\",\"url\": \"\",\"color\": \"succ\",\"description\": \"You have changed maximum warnings amount to **<warns.max>**!\"}}",
+	"getmaxwarns": "{\"embed\": {\"title\": \"Max warns\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Maximum warnings amount is **<warns.max>** now!\"}}"
+}
