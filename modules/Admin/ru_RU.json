@@ -2,5 +2,8 @@
 	"suggestset": "{\"embed\": {\"title\": \"Предложение\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Вы установили канал предложений!\"}}",
 	"suggestoff": "{\"embed\": {\"title\": \"Предложение\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Вы отключили канал предложений!\"}}",
 	"setmaxwarns": "{\"embed\": {\"title\": \"Максимально предупреждений\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Вы изменили максимальное количество предупреждений на **<warns.max>**!\"}}",
-	"getmaxwarns": "{\"embed\": {\"title\": \"Максимально предупреждений\",\"url\": \"\",\"color\": \"succ\",\"description\": \"На данный момент максимальное количество предупреждений **<warns.max>**!\"}}"
+	"getmaxwarns": "{\"embed\": {\"title\": \"Максимально предупреждений\",\"url\": \"\",\"color\": \"succ\",\"description\": \"На данный момент максимальное количество предупреждений **<warns.max>**!\"}}",
+	"getpunishes": "{\"embed\": {\"title\": \"Наказания\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Все наказания в данной гильдии: \n<punish.list>\"}}",
+	"setpunish": "{\"embed\": {\"title\": \"Наказания\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Вы установили наказание _<punish.type>_ за **<punish.amount>** предупреждений.\"}}",
+	"removepunish": "{\"embed\": {\"title\": \"Punishes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Вы убрали наказание за **<punish.amount>** предупреждений.\"}}"
 }

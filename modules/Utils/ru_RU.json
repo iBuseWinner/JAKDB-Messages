@@ -1,4 +1,9 @@
 {
 	"setdebug": "{\"embed\": {\"title\": \"Профиль\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Вы изменили дебаг-мод на **<profile.debug>**!\"}}",
-	"suggestion": "{\"embed\": {\"title\": \"Предложение\",\"url\": \"\",\"color\": \"succ\",\"description\": \"<suggestion.msg>\", \"fields\": [{\"name\": \"Автор\",\"value\": \"<suggestion.author>\", \"inline\":true}]}}"
+	"suggestion": "{\"embed\": {\"title\": \"Предложение\",\"url\": \"\",\"color\": \"succ\",\"description\": \"<suggestion.msg>\", \"fields\": [{\"name\": \"Автор\",\"value\": \"<suggestion.author>\", \"inline\":true}]}}",
+	"quoteexists": "{\"embed\": {\"title\": \"Цитаты\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Цитата <quote.name> уже существует.\"}}",
+	"addnewquote": "{\"embed\": {\"title\": \"Цитаты\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Вы создали цитату <quote.name>. Она будет показана на 1 минуту в следующем сообщении (и будет удалено сообщение).\"}}",
+	"quotenotexists": "{\"embed\": {\"title\": \"Цитаты\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Цитата <quote.name> не существует.\"}}",
+	"editquote": "{\"embed\": {\"title\": \"Цитаты\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Вы отредактировали цитату <quote.name>. Она будет показана на 1 минуту в следующем сообщении (и будет удалено сообщение).\"}}",
+	"quotedeleted": "{\"embed\": {\"title\": \"Цитаты\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Цитата <quote.name> удалена.\"}}"
 }

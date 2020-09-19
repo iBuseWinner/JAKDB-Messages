@@ -1,4 +1,9 @@
 {
 	"setdebug": "{\"embed\": {\"title\": \"Profile\",\"url\": \"\",\"color\": \"succ\",\"description\": \"You have set debug to **<profile.debug>**!\"}}",
-	"suggestion": "{\"embed\": {\"title\": \"Suggestion\",\"url\": \"\",\"color\": \"succ\",\"description\": \"<suggestion.msg>\", \"fields\": [{\"name\": \"Author\",\"value\": \"<suggestion.author>\", \"inline\":true}]}}"
+	"suggestion": "{\"embed\": {\"title\": \"Suggestion\",\"url\": \"\",\"color\": \"succ\",\"description\": \"<suggestion.msg>\", \"fields\": [{\"name\": \"Author\",\"value\": \"<suggestion.author>\", \"inline\":true}]}}",
+	"quoteexists": "{\"embed\": {\"title\": \"Quotes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Quote <quote.name> already exists.\"}}",
+	"addnewquote": "{\"embed\": {\"title\": \"Quotes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"You created quote <quote.name>. It will be showed in next message for 1 minute (and message will be deleted).\"}}",
+	"quotenotexists": "{\"embed\": {\"title\": \"Quotes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Quote <quote.name> isn't exists.\"}}",
+	"editquote": "{\"embed\": {\"title\": \"Quotes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"You edited quote <quote.name>. It will be showed in next message for 1 minute (and message will be deleted).\"}}",
+	"quotedeleted": "{\"embed\": {\"title\": \"Quotes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"Quote <quote.name> was deleted.\"}}"
 }

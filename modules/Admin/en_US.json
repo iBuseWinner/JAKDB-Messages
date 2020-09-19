@@ -2,5 +2,8 @@
 	"suggestset": "{\"embed\": {\"title\": \"Suggest\",\"url\": \"\",\"color\": \"succ\",\"description\": \"You have set suggestions channel!\"}}",
 	"suggestoff": "{\"embed\": {\"title\": \"Suggest\",\"url\": \"\",\"color\": \"succ\",\"description\": \"You have disabled suggestions channel!\"}}",
 	"setmaxwarns": "{\"embed\": {\"title\": \"Max warns\",\"url\": \"\",\"color\": \"succ\",\"description\": \"You have changed maximum warnings amount to **<warns.max>**!\"}}",
-	"getmaxwarns": "{\"embed\": {\"title\": \"Max warns\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Maximum warnings amount is **<warns.max>** now!\"}}"
+	"getmaxwarns": "{\"embed\": {\"title\": \"Max warns\",\"url\": \"\",\"color\": \"succ\",\"description\": \"Maximum warnings amount is **<warns.max>** now!\"}}",
+	"getpunishes": "{\"embed\": {\"title\": \"Punishes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"All punishes in this guild: \n<punish.list>\"}}",
+	"setpunish": "{\"embed\": {\"title\": \"Punishes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"You set the punish _<punish.type>_ for **<punish.amount>** warnings.\"}}",
+	"removepunish": "{\"embed\": {\"title\": \"Punishes\", \"url\": \"\", \"color\": \"succ\", \"description\": \"You remove the punish for **<punish.amount>** warnings.\"}}"
 }
